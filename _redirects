@@ -2,4 +2,5 @@
 # Redirect all traffic to auth page during development
 # Comment out or remove this file when ready to go live
 
-/*  /auth.html  200
+/auth.html 200
+/* /auth.html 302
