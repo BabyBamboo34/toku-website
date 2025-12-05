@@ -1,5 +1,1 @@
-# Cloudflare Pages redirects
-# Redirect all traffic to auth page during development
-# Comment out or remove this file when ready to go live
-
-/ /auth 302
+# Redirects removed - handled by client-side JS to prevent loops
